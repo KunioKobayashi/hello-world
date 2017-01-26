@@ -1,2 +1,3 @@
 # hello-world
-How to use th GitHub
+Learn how to use the GitHub.
+Have fan!
